@@ -9,5 +9,5 @@ The goal is to find, when they exist, the horizontal and vertical neighbors node
 This one is not as old as the others, it was written about a year ago sometime after I first started using C#. However, I'll see how I can improve it anyways.
 
 
-<a href = "https://www.codingame.com/training/easy/power-of-thor-episode-1" /a>
+[There is no Spoon Challenge Link](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1)
     
