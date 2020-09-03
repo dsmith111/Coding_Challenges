@@ -8,5 +8,5 @@ A basic problem to go a little bit further with conditions and variables: your p
 
 The *thor.cpp* and *thor_js.js* files are both old: created within a year of each other.
 
-<a href = "https://www.codingame.com/training/easy/power-of-thor-episode-1" /a>
+[Thor Challenge Link](https://www.codingame.com/training/easy/power-of-thor-episode-1)
     
