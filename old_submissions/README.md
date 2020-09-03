@@ -1,7 +1,6 @@
 # Old Solutions
 
-<strong>The solutions contained in this are:</strong>
-</br>[] indicates whether it has been redone.
+With [] indicating whether it has been re-made or not, the solutions contained in this are:
 
 - [] Temperatures
 - [] Mars Lander
