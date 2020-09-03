@@ -6,4 +6,6 @@ The goal of the problem is to simulate an old airport terminal display: your pro
 
 You have to split strings, store them and recreate others. You can use data structures like arrays or hash tables.
 
+<hr/>
+
 [ASCII Challenge Link](https://www.codingame.com/training/easy/ascii-art)
