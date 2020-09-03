@@ -9,5 +9,5 @@ A tutorial mission for all newcomers: your program must find which of the two ta
 Fun fact:
 I believe this (or maybe pascal's triangle) was the first code I ever wrote.
 
-<a href = "https://www.codingame.com/training/easy/power-of-thor-episode-1" /a>
+[Onboarding Challenge Link](https://www.codingame.com/training/easy/onboarding)
     
