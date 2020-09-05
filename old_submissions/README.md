@@ -7,6 +7,6 @@ With [] indicating whether it has been re-made or not, the solutions contained i
 - [] Descent
 - [] Horse Racing
 - [] Onboarding
-- [] Thor
+- [x] Thor
 - [] ASCII Art
 - [] There is no Spoon (Medium)
