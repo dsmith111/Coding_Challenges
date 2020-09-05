@@ -4,9 +4,9 @@ With a check box indicating whether it has been re-made or not, the solutions co
 
 - [ ] Temperatures
 - [ ] Mars Lander
-- [ ] Descent
+- [x] Descent
 - [ ] Horse Racing
-- [ ] Onboarding
+- [x] Onboarding
 - [x] Thor
 - [ ] ASCII Art
 - [ ] There is no Spoon (Medium)
