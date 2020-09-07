@@ -2,7 +2,7 @@
 
 With a check box indicating whether it has been re-made or not, the solutions contained in this are:
 
-- [ ] Temperatures
+- [x] Temperatures
 - [ ] Mars Lander
 - [x] Descent
 - [ ] Horse Racing
