@@ -1,0 +1,2 @@
+Runtime: 96 ms, faster than 40.90% of Python3 online submissions for Remove Duplicates from Sorted Array.
+Memory Usage: 15.8 MB, less than 82.79% of Python3 online submissions for Remove Duplicates from Sorted Array.
